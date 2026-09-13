@@ -1,0 +1,7 @@
+# One phrase per line.  A verbatim run or sentence pair whose text is one of
+# these (after normalisation) is not reported.  Built-in defaults in
+# pdfsim.verbatim.DEFAULT_BOILERPLATE always apply; add conference-specific
+# text here (e.g. the submission template's copyright block).
+the rest of the paper is organized as follows
+this paper makes the following contributions
+permission to make digital or hard copies of all or part of this work

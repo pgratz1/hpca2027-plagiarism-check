@@ -1,0 +1,12 @@
+# Installed into ~/envs/hpca-plagiarism by `make env`.
+# torch is pulled from PyPI's default Linux wheel, which bundles CUDA runtime
+# libraries; it uses an NVIDIA GPU when present and falls back to CPU elsewhere.
+pymupdf>=1.24
+rapidfuzz>=3.0
+sentence-transformers>=3.0
+torch>=2.4
+numpy>=1.26
+pillow>=10
+imagehash>=4.3
+jinja2>=3.1
+pytest>=8

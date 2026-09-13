@@ -1,0 +1,9 @@
+# local artifacts: never commit PDFs, caches, or reports
+cache/
+outputs/
+*.pdf
+__pycache__/
+*.pyc
+.pytest_cache/
+*~
+.env
